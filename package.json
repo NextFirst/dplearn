@@ -1,0 +1,30 @@
+{
+  "name": "mysite",
+  "version": "1.0.0",
+  "description": "Deep Learning for newbie to ... ;)",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.15.4",
+    "mongoose": "^4.10.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NextFirst/dplearn.git"
+  },
+  "keywords": [
+    "Deep",
+    "Learning",
+    "for",
+    "me!!"
+  ],
+  "author": "nextfirst",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NextFirst/dplearn/issues"
+  },
+  "homepage": "https://github.com/NextFirst/dplearn#readme"
+}
